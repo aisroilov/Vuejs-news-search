@@ -1,0 +1,2 @@
+# Vuejs-news-search
+Build a Single Page Application based on VueJS (or another JavaScript SPA framework of your  choice) with a search field that makes it possible to search for news. If you perform a search  the first 10 results shall be displayed in a user friendly list with the relevant fields (date,  text/snippet, title, link, author). With a paging function it shall be possible to show the next/previous 10 results. The page  size can be adjusted between 5/10/20 results per page.
